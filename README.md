@@ -12,3 +12,4 @@ Documenting My Learning Process
 | 23.01.2025 | 1.5 | Lecture in class  | Introduction to the portswigger environment |
 | 24.01.2025 | 1.0 | Cisco - Introduction to Cybersecurity  | Module 2: Attacks, Concepts and Techniques |
 | 25.01.2025 | 1.0 | Cisco - Introduction to Cybersecurity  | Module 3: Protecting your Data and Privacy |
+| 30.01.2025 | 2.0 | Cisco - Introduction to Cybersecurity  | Moddule 4: Protecting the Organization & Module 5: Will Your Future Be in Cybersecurity? & Course Final Exam |
