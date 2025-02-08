@@ -15,4 +15,4 @@ Documenting My Learning Process
 | 30.01.2025 | 2.0 | Cisco - Introduction to Cybersecurity  | Moddule 4: Protecting the Organization & Module 5: Will Your Future Be in Cybersecurity? & Course Final Exam |
 | 06.02.2025 | 1.5 | Topic SQL injection  | 1.SQL injection vulnerability in WHERE clause allowing retrieval of hidden data 2.SQL injection vulnerability allowing login bypass   |
 | 07.02.2025 | 1.5 | Topic Access control  | 1.Unprotected admin functionality 2.User role can be modified in user profile   |
-| 06.02.2025 | 2 | Topic Authentication  | 1.Username enumeration via different responses 2.Password reset broken logic   |
+| 06.02.2025 | 2.0 | Topic Authentication  | 1.Username enumeration via different responses 2.Password reset broken logic   |
