@@ -58,6 +58,7 @@ The system has **critical security flaws**, including **SQL Injection, Path Trav
 SQL Injection payload tested:  
 ```sql
 username=admin' OR '1'='1' -- &password=test123
+```
 
 The output of the query was as follows:
 
