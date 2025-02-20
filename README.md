@@ -3,7 +3,6 @@ Documenting My Learning Process
 
 # Logbook
 
-30.10.2024, 2h, Kick-off lecture, Lecture recording
 
 | Date  | Used hours | Subject(s) |  output |
 | :---         |     :---:      |     :---:      |     :---:      |
@@ -16,3 +15,8 @@ Documenting My Learning Process
 | 06.02.2025 | 1.5 | Topic SQL injection  | 1.SQL injection vulnerability in WHERE clause allowing retrieval of hidden data 2.SQL injection vulnerability allowing login bypass   |
 | 07.02.2025 | 1.5 | Topic Access control  | 1.Unprotected admin functionality 2.User role can be modified in user profile   |
 | 08.02.2025 | 2.0 | Topic Authentication  | 1.Username enumeration via different responses 2.Password reset broken logic   |
+| 14.02.2025 | 2.0 | Booking System Lecture  | Introduction to Booking System   |
+| 17.02.2025 | 4.0 | Booking System - Phase1  |  Installation of Kali Linux, ZAP, Docker and self-learning for penetration testing |
+| 18.02.2025 | 2.0 | Booking System - Phase1  |  Using ZAProxy and penetration testing to the Booking System Registration |
+| 20.02.2025 | 4.0 | Booking System - Phase1  |  Write report of phase 1 and upload to github |
+
