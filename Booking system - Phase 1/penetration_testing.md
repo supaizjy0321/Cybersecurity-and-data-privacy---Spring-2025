@@ -146,13 +146,6 @@ When inspecting the HTTP response headers, the `Content-Security-Policy` header 
 
 ## **4. Appendices**
 
-### **Appendix A: SQL Injection Test Results**
-- **Command Used (SQLMap)**
-  ```bash
-  sqlmap -u "http://localhost:8000/register" --data="username=admin&password=1234" --dbs
-Output:
-Database: xyz123
-Table: xyz123_users
-Columns: username, password, role
+### **ZAP report in the Booking system - Phase 1 folder**
 
-- **ZAP report in the Booking system - Phase 1 folder**
+### **Commands used during testing (manual SQL queries)**
