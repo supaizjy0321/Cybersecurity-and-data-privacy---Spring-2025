@@ -21,6 +21,5 @@ Documenting My Learning Process
 | 20.02.2025 | 4.0 | Booking System - Phase1 -ver1 |  Write report of phase 1 and upload to github |
 | 21.02.2025 | 2.0 | Booking System - Phase1 -ver1 |  workshop for Phase1 ver1 |
 | 21.02.2025 | 2.0 | Booking System - Phase1 - ver2 |  Using ZAProxy and penetration testing to the Booking System Registration again |
-
 | 4.03.2025 | 4.0 | Booking System - Phase1 - ver2 |  Write report of phase 1 and upload to github |
 
