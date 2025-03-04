@@ -16,7 +16,11 @@ Documenting My Learning Process
 | 07.02.2025 | 1.5 | Topic Access control  | 1.Unprotected admin functionality 2.User role can be modified in user profile   |
 | 08.02.2025 | 2.0 | Topic Authentication  | 1.Username enumeration via different responses 2.Password reset broken logic   |
 | 14.02.2025 | 2.0 | Booking System Lecture  | Introduction to Booking System   |
-| 17.02.2025 | 4.0 | Booking System - Phase1  |  Installation of Kali Linux, ZAP, Docker and self-learning for penetration testing |
-| 18.02.2025 | 2.0 | Booking System - Phase1  |  Using ZAProxy and penetration testing to the Booking System Registration |
-| 20.02.2025 | 4.0 | Booking System - Phase1  |  Write report of phase 1 and upload to github |
+| 17.02.2025 | 4.0 | Booking System - Phase1 - ver1  |  Installation of Kali Linux, ZAP, Docker and self-learning for penetration testing |
+| 18.02.2025 | 2.0 | Booking System - Phase1 - ver1 |  Using ZAProxy and penetration testing to the Booking System Registration |
+| 20.02.2025 | 4.0 | Booking System - Phase1 -ver1 |  Write report of phase 1 and upload to github |
+| 21.02.2025 | 2.0 | Booking System - Phase1 -ver1 |  workshop for Phase1 ver1 |
+| 21.02.2025 | 2.0 | Booking System - Phase1 - ver2 |  Using ZAProxy and penetration testing to the Booking System Registration again |
+
+| 4.03.2025 | 4.0 | Booking System - Phase1 - ver2 |  Write report of phase 1 and upload to github |
 
