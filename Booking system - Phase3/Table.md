@@ -33,4 +33,4 @@
 | └─ View the api of users | ⚠️ (the JSON format with all the users' token, username and role) | ⚠️ (the JSON format with all the users' token, username and role)  | ✅ (the JSON format with all the users' token, username and role) | Privacy concern — possibly violates Spec 8 |
 | /api/session |  |  |  |
 | └─ View the api of users | ❌ (Unauthorized)  | ⚠️ (no session info, but show the user's own name and role)  | ⚠️ (no session info, but show the user's own name and role) | Matches Spec 3 (role tracking after login)
-| └─ View the api of users | ❌ (Unauthorized)  | ⚠️ (no session info, but show the user's own name and role)  | ⚠️ (no session info, but show the user's own name and role) | Matches Spec 3 (role tracking after login) 
+| └─ View the api of users | ❌ (Unauthorized)  | ⚠️ (show the user's own name and role)  | ⚠️ (show the user's own name and role) | Matches Spec 3 (role tracking after login) 
