@@ -7,6 +7,8 @@ This report documents the penetration testing conducted on the **user registrati
 
 ### **Testing Schedule and Environment**
 - **Testing Date:** 02-18-2025
+- **New Testing Date:** 02-21-2025
+
 - **Environment:** Localhost (`http://localhost:8000/register`)
 - **Testing Methodology:** A combination of automated scanning using ZAP and manual analysis.
 - **Testing User:** Created a test account (`joker/joker123`) for testing.

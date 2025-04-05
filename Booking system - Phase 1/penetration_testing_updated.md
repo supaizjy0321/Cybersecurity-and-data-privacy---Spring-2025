@@ -6,7 +6,7 @@
 This report documents the penetration testing conducted on the **user registration system** of the **Booking System (Phase 1)**. The goal of this test was to identify security vulnerabilities and deviations from best practices, particularly in areas such as **input validation, data encryption, and missing security headers**.
 
 ### **Testing Schedule and Environment**
-- **Old Testing Date:** 02-18-2025  
+- **Old ·Testing Date:** 02-18-2025  
 - **New Testing Date:** 02-21-2025  
 
 - **Environment:** Localhost (`http://localhost:8000/register`)  
