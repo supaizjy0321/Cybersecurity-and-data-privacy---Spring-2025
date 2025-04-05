@@ -26,3 +26,6 @@ Documenting My Learning Process
 | 12.03.2025 | 6.0 | Booking System - Phase2 - ver1  | workshop, ZAP, Authentication |
 | 20.03.2025 | 2.0 | Booking System - Phase2 - ver2  | class recording and teaching materials |
 | 21.03.2025 | 6.0 | Booking System - Phase2 - ver2  | The brute-force attack really took a long time. |
+| 27.03.2025 - 01.04.2025 | 1.5 | Booking System - Phase3  | Watch Class video |
+| 01.04.2025 - 03.04.2025 | 1.5 | Booking System - Phase3  | Learn more about autorization test |
+| 04.04.2025 - 05.04.2025 | 6 | Booking System - Phase3  | Authorization test on Kali with different methods |
