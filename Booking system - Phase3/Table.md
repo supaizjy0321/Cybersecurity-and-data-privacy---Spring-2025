@@ -4,7 +4,7 @@
 | Page/Feature | Guest | Reserver | Adminstrator | Notes (Specs #) |
 | :---         |     :---:      |     :---:      |     :---:      | :---:      |
 | localhost:8000 |  |  |  |  |
-| └─ View Booked resources | ✅  | ✅   | ✅  | ✅ Meets Spec 8 (booked resources visible without login, but no user identity) |
+| └─ View Booked resources | ✅  | ✅   | ✅  |  Meets Spec 8 (booked resources visible without login, but no user identity) |
 | └─ Modify Booked resources | ❌  | ✅ (can only modify the one created by own)  | ✅ (can modify all the booked resources)  |  Meets Spec 4 (admin modify), partial Spec 6 (reserver can modify own) |
 | /resources |  |  |  |
 | └─ Create New resources | ⚠️ (guest can add without login) | ✅ | ✅ | 	 Conflict with Spec 4 (admin only) |
