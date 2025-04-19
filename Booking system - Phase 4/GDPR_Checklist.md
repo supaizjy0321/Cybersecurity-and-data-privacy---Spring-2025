@@ -26,9 +26,9 @@
 
 | **Result** | **Access control and authorization** |
 | :----: | :--- |
-| &nbsp;✅/❌/⚠️&nbsp; | Have you ensured that only administrators can add, modify, and delete<br> resources and bookings? |
-| &nbsp;✅/❌/⚠️&nbsp; | Is the system using role-based access control (e.g., reserver vs. administrator)? |
-| &nbsp;✅/❌/⚠️&nbsp; | Are administrator privileges limited to ensure GDPR compliance (e.g., administrators<br> cannot use data for unauthorized purposes)? |
+| &nbsp;❌&nbsp;(Adminstrators don't have delete function. Reservers can modify resources and bookings.) | Have you ensured that only administrators can add, modify, and delete<br> resources and bookings? |
+| &nbsp;✅&nbsp;(Yes, roles are clearly implemented.) | Is the system using role-based access control (e.g., reserver vs. administrator)? |
+| &nbsp;⚠️&nbsp;(There’s no audit log or limits on their data use.) | Are administrator privileges limited to ensure GDPR compliance (e.g., administrators<br> cannot use data for unauthorized purposes)? |
 
 ---
 
