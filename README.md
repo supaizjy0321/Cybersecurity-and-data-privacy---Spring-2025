@@ -29,3 +29,6 @@ Documenting My Learning Process
 | 27.03.2025 - 01.04.2025 | 1.5 | Booking System - Phase3  | Watch Class video |
 | 01.04.2025 - 03.04.2025 | 1.5 | Booking System - Phase3  | Learn more about autorization test |
 | 04.04.2025 - 05.04.2025 | 6.0 | Booking System - Phase3  | Authorization test on Kali with different methods |
+| 17.04.2025 | 5.0 | Booking System - Phase4  | GDPR and checklist |
+
+Toal hours: 65.5 hours
