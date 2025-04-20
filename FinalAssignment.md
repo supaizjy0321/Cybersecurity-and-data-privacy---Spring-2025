@@ -15,3 +15,7 @@ This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
+
+<img src="[drawing.jpg](https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/cisco%20score.png)" alt="drawing" width="200"/>
+
+https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/cisco%20score.png
