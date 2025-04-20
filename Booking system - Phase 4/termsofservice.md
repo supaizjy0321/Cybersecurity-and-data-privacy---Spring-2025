@@ -25,7 +25,7 @@ You may only book resources for legitimate and authorized purposes. The administ
 
 ## 5. Privacy
 
-Please read our [Privacy Policy](/privacypolicy) to understand how we handle your data.
+Please read our [Privacy Policy](https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/Booking%20system%20-%20Phase%204/privacypolicy.md) to understand how we handle your data.
 
 ## 6. Termination
 
