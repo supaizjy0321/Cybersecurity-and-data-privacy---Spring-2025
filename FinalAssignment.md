@@ -1,6 +1,6 @@
 # Table of contents
 1. [Cisco - Introduction to Cybersecurity](#cisco)
-2. [Some paragraph](#paragraph1)
+2. [PortSwigger](#portswigger)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
@@ -9,7 +9,7 @@
 
  - Reflection: This introductory course takes me inside the world of cybersecurity. I have learned cybersecurity basics to protesct my personal digital life. Also, I have learned the biggest securtiy challenges companies, goverments, and educational institutions face today. Sometimes the exam wss tricky for me, because I mixed some professional terms. But this course worthes learning, it's a good start for cybersecurity world.
 
-## Some paragraph <a name="paragraph1"></a>
+## PortSwigger <a name="portswigger"></a>
 The first paragraph text
 
 ### Sub paragraph <a name="subparagraph1"></a>
