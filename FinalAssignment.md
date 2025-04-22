@@ -2,6 +2,8 @@
 1. [Cisco - Introduction to Cybersecurity](#cisco)
 2. [PortSwigger](#portswigger)
     1. [Dashboard of all the labs](#dashboard)
+    2. [Topic SQL injection](#sqlinjection)
+  
 3. [Another paragraph](#paragraph2)
 
 ## 1. Cisco - Introduction to Cybersecurity <a name="cisco"></a>
@@ -10,8 +12,11 @@
  - Reflection: This introductory course takes me inside the world of cybersecurity. I have learned cybersecurity basics to protesct my personal digital life. Also, I have learned the biggest securtiy challenges companies, goverments, and educational institutions face today. Sometimes the exam wss tricky for me, because I mixed some professional terms. But this course worthes learning, it's a good start for cybersecurity world.
 
 ## PortSwigger <a name="portswigger"></a>
-The first paragraph text
+### Dashboard of all the labs <a name="dashboard"></a>
+This is a sub paragraph, formatted in heading 3 style
 
+### Topic SQL injection <a name="sqlinjection"></a>
+ - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data -> perform a SQL injection attack using category=Gifts'+OR+1=1-- for all the product in Gift category
 
 
 Topic SQL injection
@@ -28,8 +33,7 @@ Topic Access control
 
  
 
-### Dashboard of all the labs <a name="dashboard"></a>
-This is a sub paragraph, formatted in heading 3 style
+
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
