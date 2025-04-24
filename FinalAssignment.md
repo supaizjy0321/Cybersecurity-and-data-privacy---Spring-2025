@@ -19,7 +19,7 @@
 ## PortSwigger <a name="portswigger"></a>
 ### Dashboard of all the labs <a name="dashboard"></a>
 
-<img src="https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/dashboard.png)" width="400"/>
+<img src="https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/dashboard.png" width="300"/>
 
 ### Topic SQL injection <a name="sqlinjection"></a>
  - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data -> perform a SQL injection attack using category=Gifts'+OR+1=1-- for all the product in Gift category
