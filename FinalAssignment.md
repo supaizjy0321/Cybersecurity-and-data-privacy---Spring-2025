@@ -34,6 +34,9 @@ This is a sub paragraph, formatted in heading 3 style
  - Unprotected admin functionality with unpredictable URL -> some JavaScript disclosesthe URL of the admin panel
  - User role controlled by request parameter -> check admin in cookie
  - User ID controlled by request parameter -> just change id parameter to carlos
+ - User ID controlled by request parameter, with unpredictable user IDs -> change User ID
+ - User ID controlled by request parameter with data leakage in redirect -> sensitive information is leaked in the body of a redirect response
+ - 
 
 ### Topic OS command injection <a name="oscommandinjection"></a>
  - OS command injection, simple case -> use burp to check product stock
@@ -44,7 +47,10 @@ This is a sub paragraph, formatted in heading 3 style
 ### Topic Cross-site scripting <a name="crosssitescripting"></a>
  - Reflected XSS into HTML context with nothing encoded -> solve the majority of our XSS labs by invoking alert() in a simulated victim's browser
  - Stored XSS into HTML context with nothing encoded -> still using alert() but stored XSS
- - 
+ - DOM XSS in document.write sink using source location.search -> also calls alert() to perform an attack
+ - DOM XSS in innerHTML sink using source location.search -> use alert() function in the search blog functionality
+ - DOM XSS in jQuery anchor href attribute sink using location.search source -> the point is to change href attribute
+   
    
 
 
