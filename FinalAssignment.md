@@ -10,6 +10,7 @@
     7. [Topic Cross-site scripting](#crosssitescripting)
   
 3. [The Booking system project](#booking)
+4. [Logbook](#logbook)
 
 ## 1. Cisco - Introduction to Cybersecurity <a name="cisco"></a>
 <img src="https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/cisco%20score.png" width="800"/>
@@ -65,8 +66,16 @@
 
 ##### Reflection: Through this topic, I learned how critical authorization, access control, and data protection are in web applications. I gained hands-on experience in testing roles, permissions, and spotting potential vulnerabilities. Writing policies deepened my understanding of GDPR and user rights. Overall, I now better appreciate both the technical and ethical responsibilities of secure software development.
 
+## 4. Logbook <a name="logbook"></a>
+Logook link: https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/README.md
 
 
-<img src="https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/cisco%20score.png" width="800"/>
+ - Total Hours Studied: 83.5 hours
+Hours by Topic:
+ - Booking System: 54.0 hours
+ - PortSwigger: 16.5 hours
+ - Cisco - Introduction to Cybersecurity: 7.0 hours
+ - Final assignment: 3.0 hours
+ - Other (e.g., general lectures): 3.0 hours
 
-https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/cisco%20score.png
+##### Tracking my progress in a logbook can be a great way to build a sense of accomplishment. It’s amazing how seeing all the hours and effort I’ve put in helps highlight your growth over time
