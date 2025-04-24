@@ -6,6 +6,8 @@
     3. [Topic Authentication](#authentication)
     4. [Topic Access control](#accesscontrol)
     5. [Topic OS command injection](#oscommandinjection)
+    6. [Topic Path traversal](#pathtraversal)
+    7. [Topic Cross-site scripting](#crosssitescripting)
   
 3. [Another paragraph](#paragraph2)
 
@@ -34,6 +36,16 @@ This is a sub paragraph, formatted in heading 3 style
  - User ID controlled by request parameter -> just change id parameter to carlos
 
 ### Topic OS command injection <a name="oscommandinjection"></a>
+ - OS command injection, simple case -> use burp to check product stock
+
+### Topic Path traversal <a name="pathtranersal"></a>
+ - File path traversal, simple case -> forward the product then find path traversal vulnerability
+
+### Topic Cross-site scripting <a name="crosssitescripting"></a>
+ - Reflected XSS into HTML context with nothing encoded -> solve the majority of our XSS labs by invoking alert() in a simulated victim's browser
+ - Stored XSS into HTML context with nothing encoded -> still using alert() but stored XSS
+ - 
+   
 
 
 
