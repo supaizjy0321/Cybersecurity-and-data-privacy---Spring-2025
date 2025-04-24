@@ -78,4 +78,4 @@ Hours by Topic:
  - Final assignment: 3.0 hours
  - Other (e.g., general lectures): 3.0 hours
 
-##### Tracking my progress in a logbook can be a great way to build a sense of accomplishment. It’s amazing how seeing all the hours and effort I’ve put in helps highlight your growth over time
+##### Reflection: Tracking my progress in a logbook can be a great way to build a sense of accomplishment. It’s amazing how seeing all the hours and effort I’ve put in helps highlight your growth over time
