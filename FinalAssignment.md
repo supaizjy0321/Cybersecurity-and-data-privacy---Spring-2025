@@ -17,7 +17,7 @@
 
 ##### Reflection: This introductory course takes me inside the world of cybersecurity. I have learned cybersecurity basics to protesct my personal digital life. Also, I have learned the biggest securtiy challenges companies, goverments, and educational institutions face today. Sometimes the exam wss tricky for me, because I mixed some professional terms. But this course worthes learning, it's a good start for cybersecurity world.
 
-## PortSwigger <a name="portswigger"></a>
+## 2. PortSwigger <a name="portswigger"></a>
 ### Dashboard of all the labs <a name="dashboard"></a>
 
 <img src="https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/dashboard.png" width="300"/>
@@ -58,7 +58,7 @@
 
 
 
-## The Booking system project <a name="booking"></a>
+## 3. The Booking system project <a name="booking"></a>
  - Phase 1: In this section, we need to successfully using booking system on kali.Actually, because my laptop is macOS, the docker cannot work. However, this experience let me learn something about docker. I took most time on installing every tool successfully. I learned an convenient method to find vulnerabilities, using ZAP. It's convenient to find vulnerabilities automatically.
  - Phase 2: Based on teacher's hint, I successfully find all passwords by performing password hacking attack. I used dictionary attacks for some accounts and pattern analysis for others based on hints. Dictionary attacks worked well, while brute force didn’t. Guessing structured passwords took the most time. I learned that small clues can significantly narrow the search and logical thinking is often more effective than automation alone.
  - Phase 3: I tested authorization by exploring browser features, analyzing roles (guest, reserver, admin), and checking access control using ZAP and wfuzz. Role-based restrictions worked well, but manual table updates were time-consuming. Discovering hidden endpoints and verifying backend checks took the most effort. I learned how critical backend enforcement is and how tools like ZAP and wfuzz help uncover insecure direct access paths.
