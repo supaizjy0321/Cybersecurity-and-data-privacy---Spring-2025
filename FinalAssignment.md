@@ -5,6 +5,7 @@
     2. [Topic SQL injection](#sqlinjection)
     3. [Topic Authentication](#authentication)
     4. [Topic Access control](#accesscontrol)
+    5. [Topic OS command injection](#oscommandinjection)
   
 3. [Another paragraph](#paragraph2)
 
@@ -26,7 +27,13 @@ This is a sub paragraph, formatted in heading 3 style
  - Password reset broken logic -> by "forget the password" to reset the password
 
 ### Topic Access control <a name="accesscontrol"></a>
- - Unprotected admin functionality -> 
+ - Unprotected admin functionality -> the core is to replace  /robots.txt with /administrator-panel to load the admin panel
+ - User role can be modified in user profile -> the lab reinforces the importance of validating user privileges on the server side
+ - Unprotected admin functionality with unpredictable URL -> some JavaScript disclosesthe URL of the admin panel
+ - User role controlled by request parameter -> check admin in cookie
+ - User ID controlled by request parameter -> just change id parameter to carlos
+
+### Topic OS command injection <a name="oscommandinjection"></a>
 
 
 
