@@ -9,12 +9,12 @@
     6. [Topic Path traversal](#pathtraversal)
     7. [Topic Cross-site scripting](#crosssitescripting)
   
-3. [Another paragraph](#paragraph2)
+3. [The Booking system project](#booking)
 
 ## 1. Cisco - Introduction to Cybersecurity <a name="cisco"></a>
 <img src="https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/cisco%20score.png" width="800"/>
 
- - Reflection: This introductory course takes me inside the world of cybersecurity. I have learned cybersecurity basics to protesct my personal digital life. Also, I have learned the biggest securtiy challenges companies, goverments, and educational institutions face today. Sometimes the exam wss tricky for me, because I mixed some professional terms. But this course worthes learning, it's a good start for cybersecurity world.
+##### Reflection: This introductory course takes me inside the world of cybersecurity. I have learned cybersecurity basics to protesct my personal digital life. Also, I have learned the biggest securtiy challenges companies, goverments, and educational institutions face today. Sometimes the exam wss tricky for me, because I mixed some professional terms. But this course worthes learning, it's a good start for cybersecurity world.
 
 ## PortSwigger <a name="portswigger"></a>
 ### Dashboard of all the labs <a name="dashboard"></a>
@@ -37,12 +37,11 @@
  - User ID controlled by request parameter -> just change id parameter to carlos
  - User ID controlled by request parameter, with unpredictable user IDs -> change User ID
  - User ID controlled by request parameter with data leakage in redirect -> sensitive information is leaked in the body of a redirect response
- - 
 
 ### Topic OS command injection <a name="oscommandinjection"></a>
  - OS command injection, simple case -> use burp to check product stock
 
-### Topic Path traversal <a name="pathtranersal"></a>
+### Topic Path traversal <a name="pathtraversal"></a>
  - File path traversal, simple case -> forward the product then find path traversal vulnerability
 
 ### Topic Cross-site scripting <a name="crosssitescripting"></a>
@@ -51,22 +50,22 @@
  - DOM XSS in document.write sink using source location.search -> also calls alert() to perform an attack
  - DOM XSS in innerHTML sink using source location.search -> use alert() function in the search blog functionality
  - DOM XSS in jQuery anchor href attribute sink using location.search source -> the point is to change href attribute
-   
-   
 
-
-
-
-Topic Access control
-- Unprotected admin functionality → Reflection: At first I add /robots.txt to the lab URL. Becaue this lab has an unprotected admin panel. Then I add /administrator-panel to get the admin panel. Finally, it is easy to choose carlos to delete.
-- User role can be modified in user profile → Reflection: From the lab content, I get that the admin panel can only be accessible to loggin-in user with a roleid of 2. So at first, I login with the supplied credentials: wiener:peter and then update the email address. Send the email submission request to Repeater, and change roleid of 1 to 2. Once it is changed to 2, browse /admin to delete the user carlos.
+##### Reflection: Completing many PortSwigger labs has significantly deepened my understanding of web security. I learned how vulnerabilities like XSS, SQL injection, and broken authentication actually work in practice. The hands-on approach helped me think like an attacker, which in turn improved how I approach secure coding. I’ve become more comfortable using tools like Burp Suite and analyzing HTTP traffic. These labs made security feel real, not abstract, and have made me more mindful of potential risks in my own development work. Overall, it’s been a challenging but rewarding learning experience.
 
  
 
 
 
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+## The Booking system project <a name="booking"></a>
+ - Phase 1: In this section, we need to successfully using booking system on kali.Actually, because my laptop is macOS, the docker cannot work. However, this experience let me learn something about docker. I took most time on installing every tool successfully. I learned an convenient method to find vulnerabilities, using ZAP. It's convenient to find vulnerabilities automatically.
+ - Phase 2: Based on teacher's hint, I successfully find all passwords by performing password hacking attack. I used dictionary attacks for some accounts and pattern analysis for others based on hints. Dictionary attacks worked well, while brute force didn’t. Guessing structured passwords took the most time. I learned that small clues can significantly narrow the search and logical thinking is often more effective than automation alone.
+ - Phase 3: I tested authorization by exploring browser features, analyzing roles (guest, reserver, admin), and checking access control using ZAP and wfuzz. Role-based restrictions worked well, but manual table updates were time-consuming. Discovering hidden endpoints and verifying backend checks took the most effort. I learned how critical backend enforcement is and how tools like ZAP and wfuzz help uncover insecure direct access paths.
+ - I reviewed GDPR basics, updated the app, and added the GDPR checklist to GitHub. I checked the privacy, terms of service, and cookie policy pages—some were empty, so I created markdown pages with appropriate content. Writing the policies took the most time. I learned how important clear, GDPR-compliant policies are for user trust and legal compliance.
+
+##### Reflection: Through this topic, I learned how critical authorization, access control, and data protection are in web applications. I gained hands-on experience in testing roles, permissions, and spotting potential vulnerabilities. Writing policies deepened my understanding of GDPR and user rights. Overall, I now better appreciate both the technical and ethical responsibilities of secure software development.
+
+
 
 <img src="https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/cisco%20score.png" width="800"/>
 
