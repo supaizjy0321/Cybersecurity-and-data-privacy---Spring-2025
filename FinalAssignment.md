@@ -18,7 +18,8 @@
 
 ## PortSwigger <a name="portswigger"></a>
 ### Dashboard of all the labs <a name="dashboard"></a>
-This is a sub paragraph, formatted in heading 3 style
+
+<img src="[https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/cisco%20score.png](https://github.com/supaizjy0321/Cybersecurity-and-data-privacy---Spring-2025/blob/main/dashboard.png)" width="300"/>
 
 ### Topic SQL injection <a name="sqlinjection"></a>
  - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data -> perform a SQL injection attack using category=Gifts'+OR+1=1-- for all the product in Gift category
